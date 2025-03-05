@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on getting set up for pentesting and getting started
 - ⚡ Fun fact: I am an esports coach
 - 📫 How to reach me: djackson@digitalrealty.com
-- 
 
 <!--
 **djackson-dlr/djackson-dlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
